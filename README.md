@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaangaba97&show_icons=true&locale=en" alt="ishaangaba97" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaangaba97&" alt="ishaangaba97" /></p>
-
-<img src="https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif">
