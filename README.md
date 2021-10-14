@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋, I'm Ishaan Gaba</h1>
 <h3 align="center">A newbie in the software world, believes in "Learning by Doing" supremacy.</h3>
 <h3 align="center">Music and Memes are <3</h3>
+  
 <img src="https://media.giphy.com/media/zDrQxFFgiiGoU/giphy.gif?cid=ecf05e479zybeo8shg8vm1m2mvw1ckwxxtv3dhvmzyk4jal8&rid=giphy.gif&ct=g">
   
 - 🔭 I’m currently working on **Node.js projects**
