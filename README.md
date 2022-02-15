@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaangaba97&show_icons=true&locale=en&layout=compact" alt="ishaangaba97" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaangaba97&show_icons=true&locale=en" alt="ishaangaba97" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaangaba97&" alt="ishaangaba97" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaangaba97&show_icons=true&locale=en&layout=compact" alt="ishaangaba97" /></p> -->
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=ishaangaba97&show_icons=true&locale=en" alt="ishaangaba97" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaangaba97&" alt="ishaangaba97" /></p>
