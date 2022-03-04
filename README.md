@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, I'm Ishaan Gaba</h1>
+<h1 align="center">Hola 👋, I'm Ishaan!</h1>
 <h3 align="center">A newbie in the software world, believes in "Learning By Doing" supremacy.</h3>
 <h3 align="center">Music and memes are ❤</h3>
   
