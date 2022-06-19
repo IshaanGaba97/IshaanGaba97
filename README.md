@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋, I'm Ishaan!</h1>
 <h3 align="center">A newbie in the software world, believes in "Learning By Doing" supremacy.</h3>
 <h3 align="center">Music and memes are ❤</h3>
-  
-<img src="https://media.giphy.com/media/zDrQxFFgiiGoU/giphy.gif?cid=ecf05e479zybeo8shg8vm1m2mvw1ckwxxtv3dhvmzyk4jal8&rid=giphy.gif&ct=g">
-  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaangaba97&label=Profile%20views&color=0e75b6&style=flat" alt="ishaangaba97" /> </p>
+ <img src="https://media.giphy.com/media/zDrQxFFgiiGoU/giphy.gif?cid=ecf05e479zybeo8shg8vm1m2mvw1ckwxxtv3dhvmzyk4jal8&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **React projects**
 
 - 🌱 I’m currently learning **Web Development and Data Structures & Algorithms**
