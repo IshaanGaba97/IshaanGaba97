@@ -12,10 +12,3 @@ I am currently working on MERN Stack Projects 🚀<br>I am also learning Data St
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishaangaba97&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaangaba97&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ishaangaba97)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=ishaangaba97&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
