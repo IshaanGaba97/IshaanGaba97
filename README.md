@@ -28,9 +28,14 @@
 **► DevOps / Cloud Platforms:** Docker, Jenkins, AWS, Google Cloud  
 **► Developer Tools:** Git, Postman, Swagger  
 **► Project Management:** Agile/Scrum, JIRA, Azure
-**► AI Powered Tech:** Lovalble.dev, Replit, Cursor
+<br>
+**► AI Powered Tech:** Lovable.dev, Replit, Cursor
+
+
 
 <br> 
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaangaba97&show_icons=true&locale=en&layout=compact" alt="ishaangaba97" /></p>
 
