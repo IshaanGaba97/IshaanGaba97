@@ -28,6 +28,7 @@
 **► DevOps / Cloud Platforms:** Docker, Jenkins, AWS, Google Cloud  
 **► Developer Tools:** Git, Postman, Swagger  
 **► Project Management:** Agile/Scrum, JIRA, Azure
+**► AI Powered Tech:** Lovalble.dev, Replit, Cursor
 
 <br> 
 
