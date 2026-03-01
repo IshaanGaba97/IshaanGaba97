@@ -17,7 +17,8 @@
 
 **► Languages:** JavaScript, TypeScript, Python, C++, Java  
 **► Frontend Technologies:** React.js, Next.js, Vue.js, HTML/CSS  
-**► Backend Technologies:** Node.js, Express.js, Nest.js, Django, FastAPI, GraphQL, RESTful APIs, Microservices Architecture, WebSockets, JWT Authentication
+**► Backend Technologies:** Node.js, Express.js, Nest.js, Django, FastAPI, GraphQL, RESTful APIs, Microservices Architecture, WebSockets
+<br>
 **► App Development:** React Native, iOS, Android   
 **► Databases:** MongoDB, MySQL, PostgreSQL, Redis  
 **► BaaS Platforms:** Supabase, Firebase  
