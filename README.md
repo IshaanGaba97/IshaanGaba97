@@ -28,7 +28,7 @@
 **► Developer Tools:** Git, Postman, Swagger  
 **► Project Management:** Agile/Scrum, JIRA, Azure
 <br>
-**► System & Architecture:** Scalable Systems, Distributed Systems, Event-Driven Architecture, Caching Strategies, Database Optimization
+**► System & Architecture:** Scalable Systems, Distributed Systems, Event-Driven Architecture, Caching
 <br>
 **► AI Powered Tech:** LLM Integration, AI-Driven Features, Lovable.dev, Replit, Cursor
 
