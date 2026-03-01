@@ -17,10 +17,8 @@
 
 **► Languages:** JavaScript, TypeScript, Python, C++, Java  
 **► Frontend Technologies:** React.js, Next.js, Vue.js, HTML/CSS  
-**► Backend Technologies:** Node.js, Express.js, Nest.js, Django, FastAPI, GraphQL  
-**► App Development:** React Native, iOS, Android  
-**► iOS Development:** Swift, SwiftUI, Xcode  
-**► Android Development:** Kotlin, Android Studio  
+**► Backend Technologies:** Node.js, Express.js, Nest.js, Django, FastAPI, GraphQL, RESTful APIs, Microservices Architecture, WebSockets, JWT Authentication
+**► App Development:** React Native, iOS, Android   
 **► Databases:** MongoDB, MySQL, PostgreSQL, Redis  
 **► BaaS Platforms:** Supabase, Firebase  
 **► Message Brokers:** Kafka, RabbitMQ  
@@ -29,7 +27,8 @@
 **► Developer Tools:** Git, Postman, Swagger  
 **► Project Management:** Agile/Scrum, JIRA, Azure
 <br>
-**► AI Powered Tech:** Lovable.dev, Replit, Cursor
+**► System & Architecture:** Scalable Systems, Distributed Systems, Event-Driven Architecture, Caching Strategies, Database Optimization
+**► AI Powered Tech:** LLM Integration, AI-Driven Features, Lovable.dev, Replit, Cursor
 
 
 
