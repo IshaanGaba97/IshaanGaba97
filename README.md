@@ -29,6 +29,7 @@
 **► Project Management:** Agile/Scrum, JIRA, Azure
 <br>
 **► System & Architecture:** Scalable Systems, Distributed Systems, Event-Driven Architecture, Caching Strategies, Database Optimization
+<br>
 **► AI Powered Tech:** LLM Integration, AI-Driven Features, Lovable.dev, Replit, Cursor
 
 
