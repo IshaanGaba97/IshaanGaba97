@@ -48,8 +48,6 @@
       <br>
       <sub>Bash</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
       <br>
@@ -60,6 +58,8 @@
       <br>
       <sub>C</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
       <br>
@@ -90,8 +90,6 @@
       <br>
       <sub>Cypress</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
       <br>
@@ -112,6 +110,8 @@
       <br>
       <sub>Electron</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
       <br>
@@ -132,8 +132,6 @@
       <br>
       <sub>Framer</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/></a>
       <br>
@@ -164,6 +162,8 @@
       <br>
       <sub>Graphql</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
       <br>
@@ -174,8 +174,6 @@
       <br>
       <sub>HTML5</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
       <br>
@@ -258,8 +256,6 @@
       <br>
       <sub>Nativescript</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
       <br>
@@ -270,6 +266,8 @@
       <br>
       <sub>Next.js</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
       <br>
@@ -300,8 +298,6 @@
       <br>
       <sub>Pandas</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
       <br>
@@ -322,6 +318,8 @@
       <br>
       <sub>Pug</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a>
       <br>
@@ -342,8 +340,6 @@
       <br>
       <sub>RabbitMQ</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
       <br>
@@ -374,6 +370,8 @@
       <br>
       <sub>Sass</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
       <br>
@@ -384,8 +382,6 @@
       <br>
       <sub>Svelte</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
       <br>
