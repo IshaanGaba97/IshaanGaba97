@@ -447,8 +447,3 @@
 
 <br> 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaangaba97&show_icons=true&locale=en&layout=compact" alt="ishaangaba97" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaangaba97&show_icons=true&locale=en" alt="ishaangaba97" /></p>
