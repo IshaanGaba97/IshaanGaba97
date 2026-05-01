@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishaan Gaba</h1>
 <h3 align="center">Full Stack Software Engineer with a passion for building efficient, user-centric applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaangaba97&label=Profile%20views&color=0e75b6&style=flat" alt="ishaangaba97" /> </p>
-<p align="left">
-</p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishaangaba97&label=Profile%20views&color=0e75b6&style=flat" alt="ishaangaba97" /> </p> -->
 
-<h3 align="left">Languages, Technologies and Tools:</h3>
+<!-- <h3 align="center">Languages, Technologies and Tools:</h3> -->
+
+<br/>
 <table border="0">
   <tr>
     <td align="center" valign="top">
@@ -447,3 +447,4 @@
 
 <br> 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishaangaba97&label=Profile%20views&color=0e75b6&style=flat" alt="ishaangaba97" /> </p>
